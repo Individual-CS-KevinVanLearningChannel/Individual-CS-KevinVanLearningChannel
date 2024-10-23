@@ -100,7 +100,7 @@
 
 ---
 
-## :hammer_and_wrench: Languages and Tools
+## :hammer_and_wrench: Developer Languages and Tools
 
 <div id="developer-languages-body">
   <div id="computer-science-languages">
