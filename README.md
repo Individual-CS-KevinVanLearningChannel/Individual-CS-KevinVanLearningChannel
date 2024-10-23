@@ -71,7 +71,14 @@
         <li align="justify">Knowledge Technology (Cryptography and Natural Language Processing)</li>
       </ul>
     </li>
-    <li><p align="justify">:zap: In my free time, I solve problems on many reliable resources: LeetCode, Hackerrank, CodeForces, ...etc and also read equivalent articles for my working and studying.</p></li>
+    <li>
+      <p align="justify">:zap: In my free time, there are ample things I really like to do, includes:</p>
+      <ul type="circle">
+        <li align="justify">Solving problems on many popular resources: LeetCode, Hackerrank, CodeForces, ...etc!</li>
+        <li align="justify">Joining in many beneficial Moocs from three reliable website (In my opinion and Ranking from highest to lowest): Coursera, EdX, Udemy!</li>
+        <li align="justify">Reading equivalent articles for the above specific areas: not merely to enhance my current knowledge but also to lift me from understanding less to understanding more and more!</li>
+      </ul>
+    </li>
     <li>
         <p align="justify">:mailbox: How to reach me:</p>
         <ul type="circle">
