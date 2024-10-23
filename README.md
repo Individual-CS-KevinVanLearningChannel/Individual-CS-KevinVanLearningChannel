@@ -8,24 +8,24 @@
   </a>
   <hr>
   <a style="text-decoration:none" href="https://www.youtube.com/@KevinVanLearningChannel">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" title="Reading - Youtube Channel" alt="Youtube Badge"/>
   </a>
   <span> Reading - Youtube Channel</span>
   <a style="text-decoration:none" href="https://www.youtube.com/@KevinVanReadingChannel">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" title="Learning - Youtube Channel" alt="Youtube Badge"/>
   </a>
   <span> Learning - Youtube Channel</span>
   <hr>
   <a style="text-decoration:none" href="https://github.com/HCMUS-CS-KevinVanLearningChannel">
-    <img src="https://img.shields.io/badge/GitHub-red?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+    <img src="https://img.shields.io/badge/GitHub-red?style=for-the-badge&logo=github&logoColor=white" title="HCMUS - Learning GitHub" alt="GitHub Badge"/>
   </a>
   <span> HCMUS - Learning GitHub</span>
   <a style="text-decoration:none" href="https://github.com/Individual-CS-KevinVanLearningChannel">
-    <img src="https://img.shields.io/badge/GitHub-red?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+    <img src="https://img.shields.io/badge/GitHub-red?style=for-the-badge&logo=github&logoColor=white" title="Individual - Learning GitHub" alt="GitHub Badge"/>
   </a>
   <span> Individual - Learning GitHub</span>
   <a style="text-decoration:none" href="https://github.com/vltvanbusiness">
-    <img src="https://img.shields.io/badge/GitHub-red?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+    <img src="https://img.shields.io/badge/GitHub-red?style=for-the-badge&logo=github&logoColor=white" title="Business - Individual GitHub" alt="GitHub Badge"/>
   </a>
   <span> Business - Individual GitHub</span>
 </div>
@@ -177,9 +177,21 @@
     <p align="justify">
       <img src="https://github.com/devicons/devicon/blob/master/icons/neovim/neovim-original.svg" title="NeoVim" **alt="NeoVim" width="40" height="40"/> NeoVim IDEs
     </p>
+    <p align="justify">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="Pycharm" **alt="Pycharm" width="40" height="40"/> Pycharm IDEs
+    </p>
+    <p align="justify">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="Anaconda" **alt="Anaconda" width="40" height="40"/> Anaconda IDEs
+    </p>
+    <p align="justify">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" title="Visual Studio" **alt="Visual Studio" width="40" height="40"/> Visual Studio IDEs
+    </p>
+    <p align="justify">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" **alt="Visual Studio Code" width="40" height="40"/> Visual Studio Code IDEs
+    </p>
   </div>
   <div id="development-tools--axuliary">
-      <h6 align="justify">Development Tools: Axuliary</h6>
+    <h6 align="justify">Development Tools: Axuliary</h6>
     <p align="justify">
       <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" **alt="GitHub" width="40" height="40"/> GitHub - Developer Platform
     </p>
