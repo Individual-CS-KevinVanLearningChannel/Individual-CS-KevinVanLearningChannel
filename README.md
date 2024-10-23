@@ -58,7 +58,7 @@
 
 ## :man_technologist: Some Relevant Information
 
-<div id="contents-body">
+<div id="relevant-information-body">
   <ul>
     <li><p align="justify">👋 Hi, I am an undergraduate student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from University of Science, Ho Chi Minh, Viet Nam.</p></li>
     <li>
@@ -110,7 +110,7 @@
 ## :hammer_and_wrench: Developer Languages and Tools
 
 <div id="developer-languages-body">
-  <div id="computer-science-languages">
+  <div id="developer-languages-body--computer-science">
     <h4 align="center">Computer Science Languages</h4>
     <p align="justify">
       <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp; R Programming Language
@@ -137,9 +137,9 @@
 
 <br>
   
-<div id="web-development-languages">
+<div id="developer-languages-body--web-development">
     <h4 align="center">Web Developer Languages</h4>
-    <div id="web-development-languages--front-end-basic">
+    <div id="developer-languages-body--web-development--front-end-basic">
       <h6 align="justify">Front End: BASIC</h6>
       <p align="justify">
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp; HTML Markup Language
@@ -154,19 +154,19 @@
           <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp; Javascript Programming Language
       </p>
     </div>
-    <div id="web-development-languages--front-end-advance">
+    <div id="developer-languages-body--web-development--front-end-advance">
       <h6 align="justify">Front End: Advance</h6>
       <p align="justify">
           <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp; React Free-and-Open-Source Framework
       </p>
     </div>
-    <div id="web-development-languages--back-end-basics">
+    <div id="developer-languages-body--web-development--back-end-basics">
       <h6 align="justify">Back End: BASIC</h6>
       <p align="justify">
         <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp; Python Programming Language
       </p>
     </div>
-    <div id="web-development-languages--back-end-advance">
+    <div id="developer-languages-body--web-development--back-end-advance">
       <h6 align="justify">Back End: Advance</h6>
       <p align="justify">
         <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp; Python Programming Language
@@ -179,7 +179,7 @@
 
 <div id="development-tools-body">
   <h4 align="center">Development Tools</h4>
-  <div id="developer-tools--primary">
+  <div id="developer-tools-body--primary">
     <h6 align="justify">Development Tools: Primary</h6>
     <p align="justify">
       <img src="https://github.com/devicons/devicon/blob/master/icons/neovim/neovim-original.svg" title="NeoVim" **alt="NeoVim" width="40" height="40"/> NeoVim IDEs
@@ -197,7 +197,7 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" **alt="Visual Studio Code" width="40" height="40"/> Visual Studio Code IDEs
     </p>
   </div>
-  <div id="development-tools--axuliary">
+  <div id="development-tools-body--axuliary">
     <h6 align="justify">Development Tools: Axuliary</h6>
     <p align="justify">
       <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" **alt="GitHub" width="40" height="40"/> GitHub - Developer Platform
@@ -232,10 +232,36 @@
 
 ## :writing_hand: My Recent Blog Posts !!!
 
+<div id="personal-blog-posts-body">
+  <h4 align="center">My Success Future</h4>
+  <ul>
+    <li align="justify">One crucial thing: Never give up !</li>
+    <li align="justify">
+      Becoming a scholar of one of dream universities: (Ranking from the highest to the lowest)
+      <ul typpe="circle">
+        <li align="justify">Massachusetts Institute of Technology (MIT)</li>
+        <li align="justify">Stanford University</li>
+        <li align="justify">Harvard University</li>
+      </ul>
+    </li>
+    <li align="justify">Becoming at least: PhD bachelor !</li>
+  </ul>
+  <br>
+  <br>
+  <p align="center">" Demanding, Perfectionist, Not Easy to Work with...!</p>
+  <p align="center">Hard-Working: for Every Single Day...!</p>
+  <p align="center">If _ want to do extraordinary things, It should not be EASY...! "</p>
+  <p align="center">- Founder and CEO of Nvidia: <b>Jesen Huang</b> -</p>
+</div>
+
 #### Comming Soon !!!
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+<br>
+<h5 align="center">&copy; Copyright - KevinVan Learning Channel - kevinvanlearningchannel@gmail.com</h5>
+<h5 align="center">October 23, 2024</h5>
 
 <!---
 Individual-CS-KevinVanLearningChannel/Individual-CS-KevinVanLearningChannel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
