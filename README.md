@@ -213,17 +213,19 @@
 
 ## :writing_hand: My Certifications !!!
 
-#### Comming soon !!!
+#### Comming Soon !!!
 
 ---
 
 ## :writing_hand: My relevant Skills !!!
 
-#### Comming soon !!!
+#### Comming Soon !!!
 
 ---
 
 ## :writing_hand: My Recent Blog Posts !!!
+
+#### Comming Soon !!!
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
