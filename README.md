@@ -3,7 +3,7 @@
 </div>
 
 <div id="media-badges-header" align="center">
-  <a style="text-decoration:none" href="facebook.com/profile.php?id=61567172974019">
+  <a style="text-decoration:none" href="https://facebook.com/profile.php?id=61567172974019">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
   <hr>
