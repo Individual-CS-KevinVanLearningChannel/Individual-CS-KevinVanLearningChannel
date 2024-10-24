@@ -244,7 +244,7 @@
         <li align="justify">Harvard University</li>
       </ul>
     </li>
-    <li align="justify">Becoming at least: PhD bachelor !</li>
+    <li align="justify">Becoming at least: PhD Scholar !</li>
   </ul>
   <br>
   <br>
