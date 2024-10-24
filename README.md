@@ -254,6 +254,8 @@
   <p align="center">- Founder and CEO of Nvidia: <b>Jesen Huang</b> -</p>
 </div>
 
+<br>
+
 <div id="personal-blog-posts-body">
   <h4 align="center">Some Relevant Blog Posts</h4>
 </div>
