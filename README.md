@@ -122,6 +122,18 @@
 ## :hammer_and_wrench: Developer Languages and Tools
 
 <div id="developer-languages-body">
+  <div id="developer-languages-body--rudiment">
+    <h4 align="center">The Rudiment Languages</h4>
+    <p align="justify">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/fortran/fortran-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp; Fortran Programming Language
+    </p>
+    <p align="justify">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/visualbasic/visualbasic-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp; VisualBasic Programming Language
+    </p>
+  </div>
+
+  <br>
+  
   <div id="developer-languages-body--computer-science">
     <h4 align="center">Computer Science Languages</h4>
     <p align="justify">
